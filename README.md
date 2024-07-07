@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=寒露&cn=true&theme=dark)
+![Leetcode Info](https://stats.justsong.cn/api/leetcode?username='寒露'&cn=true&theme=dark)
