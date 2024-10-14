@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=JessieLu&cn=true&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jessielu?theme=light&font=Zen%20Kaku%20Gothic%20Antique&ext=heatmap&site=cn)
